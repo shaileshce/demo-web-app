@@ -1,0 +1,1 @@
+- Simple Web Server application for the purpose of Argo CD Demo
